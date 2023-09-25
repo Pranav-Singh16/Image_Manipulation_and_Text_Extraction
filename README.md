@@ -1,4 +1,5 @@
 # Image Text Extraction with Tesseract and Pillow
+![image](https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/4d2cb1bc-0dc4-4345-ba4e-b952fd03c500)
 
 This Python script is designed to extract text from images using Tesseract OCR and the Pillow library. It allows you to process a batch of images, define the area for text extraction, and store the results in a CSV file.
 
@@ -29,6 +30,8 @@ Before using this script, make sure you have the following software and librarie
 7. After processing, the script will display the extracted text and save the results to a CSV file (`text_results.csv` by default).
 
 ![image](https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/49196275-c5b9-45b4-a89c-dbccc4d3cbd7)
+![image](https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/f475bf5b-9bb5-4338-a37e-6b5811094519)
+
 
 ## Usage
 
