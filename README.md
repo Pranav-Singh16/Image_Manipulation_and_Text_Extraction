@@ -1,6 +1,8 @@
 # Image Text Extraction with Tesseract and Pillow
-https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/4d2cb1bc-0dc4-4345-ba4e-b952fd03c500
-![g1](https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/cb634d3e-5dba-48e2-8e3b-a76712602f9c=100x200)
+
+<div align="center">
+  <img src="https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/cb634d3e-5dba-48e2-8e3b-a76712602f9c" alt="Image for text extraction" width="500" height="275">
+</div>
 
 This Python script is designed to extract text from images using Tesseract OCR and the Pillow library. It allows you to process a batch of images, define the area for text extraction, and store the results in a CSV file.
 
@@ -30,8 +32,16 @@ Before using this script, make sure you have the following software and librarie
 
 7. After processing, the script will display the extracted text and save the results to a CSV file (`text_results.csv` by default).
 
-![image](https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/49196275-c5b9-45b4-a89c-dbccc4d3cbd7)
-![image](https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/f475bf5b-9bb5-4338-a37e-6b5811094519)
+
+<div align="center">
+  <img src="https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/49196275-c5b9-45b4-a89c-dbccc4d3cbd7" width="400" height="220">
+    <img src="https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/f475bf5b-9bb5-4338-a37e-6b5811094519" width="400" height="220">
+</div>
+
+<div align="center">
+  <img src="https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/6f952f7b-b9b4-4169-95dc-7c34caae0655" width="400" height="220">
+    <img src="https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/eef805ae-a617-488c-9c66-3c35acbaac37" width="400" height="220">
+</div>
 
 
 ## Usage
