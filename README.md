@@ -56,14 +56,4 @@ Before using this script, make sure you have the following software and librarie
 
 - You can access the extracted text and image names in the CSV file for further analysis or processing.
 
-## Contributing
-
-If you want to contribute to this project, feel free to fork the repository and submit a pull request with your enhancements. You can also report issues or suggest improvements in the "Issues" section of the repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 **Note:** This README is a general guide. You should replace placeholders in the script, such as `folder_path`, with your specific information, and customize it according to your project's structure and requirements.
